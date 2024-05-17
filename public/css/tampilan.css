@@ -1,0 +1,37 @@
+.navbar-brand {
+    font-weight: 600;
+}
+.navbar {
+    z-index: 3;
+}
+
+* {
+    z-index: 2;
+}
+.nav-link.active {
+    font-weight: 600;
+    background-color: white !important;
+    color: #e8c667 !important;
+}
+
+/* font */
+.paragraf-p {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header-h {
+    font-family: "Kanit", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* image */
+.image {
+    padding-top: 70px;
+    width: 500px;
+}
+
+/* button */
